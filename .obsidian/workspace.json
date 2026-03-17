@@ -4,33 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "9e8524b8c16a00d4",
+        "id": "e01dd991dd25e726",
         "type": "tabs",
         "children": [
           {
-            "id": "431a4b6093fd6d49",
+            "id": "2817e7334be52374",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Devops-инженер база знаний/Модуль 2/6. HTTP API/3) HTTP-запросы в браузере.md",
+                "file": "Devops-инженер база знаний/Модуль 2/6. HTTP API/10) OpenAPI (Swagger).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3) HTTP-запросы в браузере"
+              "title": "10) OpenAPI (Swagger)"
             }
           },
           {
-            "id": "7fee066f83bd5f82",
+            "id": "9d2f2ce7a72b217f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.4"
+                "file": "Devops-инженер база знаний/Модуль 2/6. HTTP API/11) Postman.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "примечания к выпуску 1.12.4"
+              "icon": "lucide-file",
+              "title": "11) Postman"
             }
           }
         ],
@@ -196,45 +198,45 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "7fee066f83bd5f82",
+  "active": "9d2f2ce7a72b217f",
   "lastOpenFiles": [
-    "Вложенные картинки/Pasted image 20260303192306.png",
-    "Вложенные картинки/Pasted image 20260303192248.png",
-    "Вложенные картинки/Pasted image 20260303191646.png",
+    "Вложенные картинки/Pasted image 20260317190231.png",
+    "Вложенные картинки/Pasted image 20260317190156.png",
+    "Вложенные картинки/Pasted image 20260317190027.png",
+    "Вложенные картинки/Pasted image 20260317185712.png",
+    "Вложенные картинки/Pasted image 20260317185653.png",
+    "Вложенные картинки/Pasted image 20260317185641.png",
+    "Вложенные картинки/Pasted image 20260317185624.png",
+    "Devops-инженер база знаний/Модуль 2/6. HTTP API/10) OpenAPI (Swagger).md",
+    "Вложенные картинки/Pasted image 20260317171426.png",
+    "Вложенные картинки/Pasted image 20260317171222.png",
+    "Вложенные картинки/Pasted image 20260317164810.png",
+    "Вложенные картинки/Pasted image 20260317164716.png",
+    "Devops-инженер база знаний/Модуль 2/6. HTTP API/9) Авторизация в API.md",
+    "Devops-инженер база знаний/Модуль 2/6. HTTP API/8) Аутентификация в HTTP API.md",
+    "Devops-инженер база знаний/Модуль 2/6. HTTP API/6) HTTPie.md",
+    "Devops-инженер база знаний/Модуль 2/6. HTTP API/7) Виды API.md",
+    "Devops-инженер база знаний/Модуль 2/5. Протокол HTTP/10) Curl.md",
+    "Devops-инженер база знаний/Модуль 2/6. HTTP API/5) CRUD.md",
+    "Devops-инженер база знаний/Модуль 2/6. HTTP API/4) Пример HTTP API.md",
+    "Devops-инженер база знаний/Модуль 2/4. Регулярные выражения (Regexp)/6) Квантификация.md",
+    "Devops-инженер база знаний/Модуль 2/6. HTTP API/3) HTTP-запросы в браузере.md",
     "Devops-инженер база знаний/Модуль 2/6. HTTP API/2) Для чего используется HTTP API.md",
-    "Вложенные картинки/Pasted image 20260303191418.png",
-    "Вложенные картинки/Pasted image 20260303191105.png",
+    "Devops-связные заметки/Makefile.md",
+    "Devops-связные заметки/Настройка ssh-ключей для доступа в github.md",
+    "Devops-связные заметки/Что такое тильда в PostgreSQL.md",
     "Devops-инженер база знаний/Модуль 1/Python. Настройка окружения/Точка входа.md",
     "Devops-инженер база знаний/Модуль 2/6. HTTP API/1) Введение.md",
     "Devops-инженер база знаний/Модуль 2/5. Протокол HTTP/11) Cookies.md",
     "Devops-инженер база знаний/Модуль 2/5. Протокол HTTP/9) Базовая аутентификация.md",
     "Devops-инженер база знаний/Модуль 2/5. Протокол HTTP/5) Отправка форм.md",
     "Devops-инженер база знаний/Модуль 2/5. Протокол HTTP/4) Тело HTTP-запроса.md",
-    "Devops-инженер база знаний/Модуль 2/6. HTTP API/8) Аутентификация в HTTP API.md",
-    "Devops-инженер база знаний/Модуль 2/6. HTTP API/3) HTTP-запросы в браузере.md",
-    "Devops-инженер база знаний/Модуль 2/6. HTTP API/7) Виды API.md",
-    "Devops-инженер база знаний/Модуль 2/6. HTTP API/9) Авторизация в API.md",
-    "Devops-инженер база знаний/Модуль 2/6. HTTP API/10) OpenAPI (Swagger).md",
     "Devops-инженер база знаний/Модуль 2/6. HTTP API/11) Postman.md",
-    "Devops-инженер база знаний/Модуль 2/6. HTTP API/6) HTTPie.md",
-    "Devops-инженер база знаний/Модуль 2/6. HTTP API/5) CRUD.md",
-    "Devops-инженер база знаний/Модуль 2/6. HTTP API/4) Пример HTTP API.md",
     "Без названия 11.md",
     "Без названия 12.md",
     "Devops-инженер база знаний/Модуль 2/5. Протокол HTTP/13) HTTP2 и HTTP3.md",
     "Devops-инженер база знаний/Модуль 2/6. HTTP API",
     "Devops-инженер база знаний/Модуль 2/5. Протокол HTTP/12) HTTPS.md",
-    "Devops-инженер база знаний/Модуль 2/5. Протокол HTTP/10) Curl.md",
-    "Вложенные картинки/Pasted image 20260303022330.png",
-    "Вложенные картинки/Pasted image 20260303020708.png",
-    "Вложенные картинки/Pasted image 20260303014310.png",
-    "Obsidian notes.md",
-    "Devops-инженер база знаний/Модуль 2/5. Протокол HTTP/8) Перенаправления.md",
-    "Devops-инженер база знаний/Модуль 2/5. Протокол HTTP/7) Передача данных query string.md",
-    "Devops-инженер база знаний/Модуль 2/4. Регулярные выражения (Regexp)/8) Группировка и обратная связь.md",
-    "Вложенные картинки/Pasted image 20260301223905.png",
-    "Вложенные картинки/Pasted image 20260301223707.png",
-    "Вложенные картинки/Pasted image 20260301210225.png",
     "Devops-инженер база знаний/Модуль 2/5. Протокол HTTP",
     "Devops-инженер база знаний/Модуль 2/4. Регулярные выражения (Regexp)",
     "Devops-инженер база знаний/Модуль 2/3. Проектирование баз данных",

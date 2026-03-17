@@ -85,7 +85,7 @@ curl -X POST https://http.hexlet.app/http-protocol/users \
     
     Для этого вам понадобится отправить _POST_ запрос на адрес _[https://http.hexlet.app/http-protocol/tasks](https://http.hexlet.app/http-protocol/tasks)_ с телом в формате JSON. Пример тела запроса для создания задачи:
     
-    ```
+    ```json
     {
     "title": "Some title",
     "description": "Some description",
@@ -94,7 +94,7 @@ curl -X POST https://http.hexlet.app/http-protocol/users \
     ```
 
 
-```
+```shell
 curl -X POST https://http.hexlet.app/http-protocol/tasks \
 -H "content-type: application/json" \
 -d '{
