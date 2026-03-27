@@ -58,7 +58,7 @@ VALUES ('Maureen', 'Romaguera',  'Casimer_Cronin@yahoo.com', '2022-06-14 02:28:2
 |Maureen|Romaguera|[Casimer_Cronin@yahoo.com](mailto:Casimer_Cronin@yahoo.com)|2022-06-14 02:28<br><br>.058|
 - #SQL-команда Напишем запрос на редактирование записи:
 
-```
+```sql
 UPDATE users SET email = 'Casimer_Cronin@gmail.com'
 WHERE last_name = 'Romaguera';
 ```
